@@ -128,30 +128,217 @@ _By using With Project, you acknowledge that you have read and understood this P
 
 ## Terms of Service
 
-### Eligibility  
-- Users must be at least 13 years old and legally allowed to use the service in their jurisdiction.  
+_Last Updated: 1/8/2026_
 
-### User Content  
-- Users retain ownership of content they create but grant us a license to display and distribute it within the app.  
-- Users are responsible for the content they post and must have the rights to share it.  
+### 1. Acceptance of Terms
+By accessing or using With Project (the “App,” “we,” “us,” or “our”), you agree to be bound by these Terms of Service and Community Guidelines. If you do not agree to these terms, you must not use the App.
 
-### Prohibited Conduct  
-- Users must not post illegal, abusive, or infringing content.  
-- Harassment, impersonation, or other misuse of the service is forbidden.  
+### 2. User Eligibility
+To use the App, you must:
+- Be at least 13 years old  
+- Have parental or guardian consent if you are under 18  
+- Have the legal capacity to enter into these terms  
+- Not be prohibited from using the App under applicable laws  
+- Not have been previously banned from the App  
 
-### Reporting & Enforcement  
-- Users can report inappropriate content or behavior via in-app mechanisms.  
-- We reserve the right to remove content and suspend or terminate accounts that violate these terms.  
+### 3. Account Registration and Authentication
 
-### Termination  
-- Users may delete their accounts at any time within the app.  
-- We may suspend or terminate accounts for violations of these terms or to protect the community.  
+**3.1 Account Creation**  
+- Accounts may be created using Google Sign-In or Apple Sign-In  
+- You are responsible for maintaining the security of your account  
+- You must provide accurate and complete information  
+- You are responsible for all activity under your account  
+- You must notify us immediately of unauthorized use  
 
-### Disclaimers  
-- The service is provided "as is" without warranties of any kind.  
-- We are not liable for user content or third-party services.  
+**3.2 Account Reversibility**  
+- Account creation is reversible  
+- You may delete your account at any time  
+- Account deletion is permanent and cannot be undone  
+- See Section 11 for deletion details  
 
-### Contact  
-- For questions about these terms, contact us at [TO BE REVISED].  
+### 4. Hangout Posting and Social Features
 
-*This document is provided as a general guideline and will be revised to fully match the app's final functionality and data practices.*
+**4.1 Creating Hangout Posts**  
+- Hangout posts are used to share moments with friends  
+- Each post must include at least one photo or video  
+- Optional caption limit: 1,000 characters  
+- Daily limit: one hangout post per 24-hour period  
+- Tagging limit: 1–10 existing App users  
+
+**4.2 Tagged Friend Participation**  
+- Tagged users receive a notification  
+- Participation requires submitting related content  
+- Participants may upload media, add captions, or modify shared content  
+- A hangout is finalized only after all tagged users confirm participation  
+- Unconfirmed hangouts remain pending  
+
+**4.3 Hangout Management**  
+- You may view all hangouts you participated in  
+- You may remove yourself at any time  
+- Removal triggers recalculation of social points  
+- Finalized hangouts cannot be edited by the original poster  
+
+### 5. Social Points System
+
+**5.1 Point Mechanics**  
+- Social points represent social participation and presence  
+- Points are earned through hangouts and social connections  
+- Poster earns points per confirmed participant (capped per post)  
+- Participants receive proportional points plus bonuses  
+- Additional boosts may apply based on participant relationships  
+
+**5.2 Transparency**  
+- Total points are visible on your profile  
+- Contributing factors may be viewed in summary form  
+- Points are recalculated dynamically as participation changes  
+
+**5.3 Fair Use Rules**  
+You may not:
+- Manipulate or game the points system  
+- Create fake accounts or artificial hangouts  
+- Coordinate activity to inflate points  
+
+Violations may result in point deductions, suspension, or permanent ban.
+
+### 6. Friend Connections
+
+**6.1 Friend Requests**  
+- Users may send, accept, reject, or cancel requests  
+
+**6.2 Friendships**  
+- Friends may tag each other and view shared content  
+- You may unfriend at any time  
+- Unfriending does not delete past hangout history  
+
+**6.3 User Discovery**  
+- Users may be searched by username or display name  
+- Profiles are visible only to friends and shared hangout participants  
+- The App operates as a semi-private social network  
+
+### 7. User-Generated Content
+
+**7.1 Your Content**  
+- You retain ownership of content you post  
+- You grant us a non-exclusive, worldwide, royalty-free license to:
+  - Display and distribute content within the App  
+  - Store content on our servers  
+  - Share content with connected users  
+
+You represent that:
+- You have rights to the content  
+- The content complies with these terms  
+- Required permissions have been obtained  
+
+**7.2 Content Guidelines**  
+Content must:
+- Reflect real-life social activity  
+- Be authentic and non-deceptive  
+- Not infringe third-party rights  
+- Have consent if minors appear  
+
+**7.3 Moderation**  
+- Content may be reviewed automatically or manually  
+- Violating content may be removed without notice  
+- Repeated violations may result in account action  
+
+### 8. Acceptable Use and Prohibited Content
+
+You agree not to post or engage in content or behavior that is:
+- Illegal, abusive, harassing, or threatening  
+- Hate speech or discriminatory  
+- Sexually explicit or exploitative  
+- Violent, self-harm related, or dangerous  
+- Spam, scams, or misinformation  
+- Intellectual property infringement  
+- Private personal information without consent  
+- Malware, automation, or bot-generated  
+
+### 9. Reporting and Blocking
+
+**9.1 Reporting**  
+- Users may report content or accounts  
+- Reports are reviewed promptly  
+- False or malicious reports may result in action  
+
+**9.2 Blocking**  
+Blocking a user will:
+- Remove friendship  
+- Prevent tagging or interaction  
+- Hide content mutually  
+
+### 10. Enforcement
+
+**10.1 Consequences**  
+Violations may result in:
+- Warnings  
+- Content removal  
+- Point deductions  
+- Temporary suspension  
+- Permanent termination  
+- Legal reporting if required  
+
+**10.2 Appeals**  
+- Appeals may be submitted within 30 days  
+- Reviewed within a reasonable timeframe  
+- Decisions are final  
+
+### 11. Account Termination and Deletion
+
+**11.1 Deletion by You**  
+You may delete your account via:
+- Settings → Account → Delete Account  
+
+Deletion results in:
+- Permanent data removal  
+- Media and hangouts deleted  
+- Authentication revoked  
+- Points and activity removed  
+
+**11.2 Termination by Us**  
+We may suspend or terminate accounts for violations or discontinue the App at any time.
+
+### 12. Intellectual Property
+
+**12.1 Our Property**  
+The App, design, branding, and technology are owned by us or our licensors.
+
+**12.2 Your Property**  
+You retain ownership of your content subject to the license granted in Section 7.
+
+### 13. Privacy
+Your use of the App is governed by our Privacy Policy, which explains how data is collected, used, and protected.
+
+### 14. Disclaimers and Limitation of Liability
+The App is provided “as is” and “as available.”  
+We do not guarantee uninterrupted service or error-free operation.  
+To the maximum extent permitted by law, our liability is limited to the greater of:
+- $100, or  
+- Amount paid by you in the past 12 months  
+
+### 15. Indemnification
+You agree to indemnify us against claims arising from:
+- Your use of the App  
+- Your content  
+- Violations of these terms  
+
+### 16. Changes to Terms
+We may update these terms periodically. Continued use after changes constitutes acceptance.
+
+### 17. Governing Law and Dispute Resolution
+These terms are governed by the laws of **the laws of the United States**.  
+Disputes will be resolved through binding arbitration where permitted.
+
+### 18. Contact Information
+For questions or reports:
+- **Support:** withproject.app@gmail.com 
+- **Moderation:** withproject.app@gmail.com
+- **Legal:** withproject.app@gmail.com 
+
+### 19. Severability
+If any provision is unenforceable, the remaining provisions remain effective.
+
+### 20. Entire Agreement
+These Terms and the Privacy Policy constitute the entire agreement between you and us.
+
+### 21. Acknowledgment
+By using With Project, you acknowledge that you have read, understood, and agree to these Terms of Service.
