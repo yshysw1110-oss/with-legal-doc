@@ -325,7 +325,7 @@ You agree to indemnify us against claims arising from:
 We may update these terms periodically. Continued use after changes constitutes acceptance.
 
 ### 17. Governing Law and Dispute Resolution
-These terms are governed by the laws of **the laws of the United States**.  
+These terms are governed by **the laws of the United States**.  
 Disputes will be resolved through binding arbitration where permitted.
 
 ### 18. Contact Information
