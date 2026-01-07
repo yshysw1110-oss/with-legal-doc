@@ -109,8 +109,7 @@ Your continued use of the App after changes become effective constitutes accepta
 
 ### 12. Contact Us
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:  
-**Email:** yshysw1110@gmail.com  
-**Address:** withproject.app@gmail.com
+**Email Address:** withproject.app@gmail.com
 
 ### 13. Additional Information
 
